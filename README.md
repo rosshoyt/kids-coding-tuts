@@ -6,7 +6,7 @@ Coding projects, tutorials, samples, and lessons for grades 2-5 + using MIT's Sc
  <a href="https://scratch.mit.edu/projects/491917734/"><img src="https://cdn2.scratch.mit.edu/get_image/project/491917734_144x108.png"
      alt="Mars Perseverance Rover Challenge"
      style="float: left; margin-right: 10px;">
-<a href="default.asp"><img src="https://cdn2.scratch.mit.edu/get_image/project/502002542_144x108.png"
+<a href="https://scratch.mit.edu/projects/502002542/"><img src="https://cdn2.scratch.mit.edu/get_image/project/502002542_144x108.png"
      alt="2D Platformer Game"
      style="float: left; margin-right: 10px;"> <a href="https://scratch.mit.edu/projects/449576912/">
   <a href="https://scratch.mit.edu/projects/449576912/"><img src="https://cdn2.scratch.mit.edu/get_image/project/449576912_144x108.png"
